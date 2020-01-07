@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: thulac
+Version: 0.2.1
+Summary: An efficient Chinese text segmentation tool
+Home-page: https://github.com/thunlp/THULAC-Python
+Author: thunlp
+Author-email: liuzy@tsinghua.edu.cn
+License: UNKNOWN
+Download-URL: https://github.com/thunlp/THULAC-Python/archive/master.zip
+Description: UNKNOWN
+Keywords: segmentation
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.4
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.4
